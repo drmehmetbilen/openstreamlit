@@ -41,7 +41,7 @@ class OiManager:
         modelResponse = self.openai.chat.completions.create(
             messages=history,
             model="gpt-4-turbo-preview",
-            max_tokens=500
+            max_tokens=1000
         )
         
         return modelResponse.choices[0].message.content
