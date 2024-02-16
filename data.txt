@@ -1,0 +1,469 @@
+GİRİŞ
+Vücudun fizyolojik durumunu yansıtan yaşam bulguları bireyin değerlendirilmesi konusunda bilgi sağlayan verilerdir. Yaşam bulguları bireyin sağlık durumunun temel göstergelerindendir. Bu bulguların ölçülmesi, doğru olarak değerlendirilmesi ve yorumlanması bireyin sağlık durumunun belirlenmesinde önemlidir. Hemşire, bu ölçümlerden elde edilen verileri, hastanın fiziksel değerlendirilmesi ve sağlık öyküsü ile birlikte klinik bakım vermek için kullanır.
+YAŞAM BULGULARI
+Vücut sıcaklığı, solunum, nabız, kan basıncı sağlık ve hastalık durumu hakkında bize önemli bilgiler veren yaşam bulgularıdır (subjektif bir semptom olan ağrı beşinci yaşamsal bulgu olarak adlandırılır ve sıklıkla diğerleriyle değerlendirilir).
+Vücudun fizyolojik durumunu yansıtan yaşam bulguları bireyin olağan durumunun değerIendirilmesinde yardımcı olur.
+Yaşam bulgulardaki değişiklik tıbbi ya da hemşirelik müdahale ihtiyacını bildirir.
+ Aynı zamanda hemşirelik tanılarının belirlemesinde, planlı müdahalelerin uygulanmasında ve bakım sonuçlarının değerlendirilmesinde veri sağlar.
+Dolaşım, solunum sisteminin; sinirsel ve endokrin fonksiyonların etkinliğini gösterir.
+Yaşam bulguları klinik karar verme ve problem çözme için temel oluşturur.
+Yaşam Bulgularının Değerlendirme Sıklığı
+Hastaya bakım verirken hastanın yaşam bulgularını ölçmek, değişimleri değerlendirmek ve müdahale gerekliliğine karar vermek hemşirenin sorumluluğudur. Yaşam bulguları tedavi ve bakım sürecinde gerekli girişimlerin planlama ve uygulamasında tüm sağlık profesyonellerine veri sağlayan önemli fizyolojik göstergeler olup, izlem ve değerlendirme sıklığında aşağıda sıralanan durumlar göz önünde bulundurulur.
+Hasta kabulünde ve muayeneye hazırlarken,
+Hastanın durumunda ani bozulma olduğunda,
+Kalp ve solunum sistemini etkileyen ilaçların uygulamasından önce ve sonra,
+Cerrahi işlem öncesi ve sonrası,
+Yaşam belirtilerini etkileyebilecek girişimlerden önce ve sonra,
+Tanı işlemlerinden önce ve sonra,
+Kan ve kan ürünleri transfüzyonundan önce, transfüzyon süresince ve sonrasında,
+Hasta kendisinde bir farklılık hissettiğinde,
+Hasta izleminde hemşirenin gerekli gördüğü zaman aralığında,
+Tedavi boyutu ile doktor istemine uygun zamanlarda, yaşam bulgularının izlenmesi gerekir.
+1.1. Yaşam Bulgularının Ölçülmesinde Temel Adımlar
+Hasta sağlık birimine girer girmez yaşam bulguları değerlendirilir. Tüm yaşam bulgularının yorumlanmasında hastanın genel durumu değerlendirilir. Nerede, ne zaman, nasıl ve kim tarafından yaşam bulgularının ölçüleceğini hastanın ihtiyaçları belirler. Yaşam bulgularının doğru ölçümü ve değerlendirilmesinde aşağıdaki durumlar göz önünde bulundurulmalıdır:
+Ekipmanların doğru olarak çalıştığından ve değişen bulguları ölçebilecek uygunluğa sahip olduğunda emin olunmalıdır.
+Hastanın durumu ve yaşına uygun ekipman se çimi yapılmalıdır (örneğin çocuklarda yetişkin tansiyon manşonu kullanmamalı).
+Hastanın normal değerleri bilinmelidir. Hastanın yaşı ve fiziksel durumuna göre yaşam bulgularının normal değerleri değişiklikler gösterebilir. Hastanın normal değerleri, daha sonra bulgularla karşılaştırmak için bir temel oluşturuz. Böylece zaman içinde durumdaki bir değişikliği tespit edilmesi sağlanır.
+Hastanın tıbbi geçmişi, tedavileri ve reçetel ilaçlan bilinmelidir. Bazı hastalıklar ve tedaviler yaşam bulgulannda değişiklik yapabilir. Örneğin: Novalgine (ağrı kesici ilaç) kan basıncını  düşürür, ibuprofen türevi ilaçlar kan basıncım yükseltir).
+Çevresel durumlar kontrol edilmelidir. Fiziksel egzersiz sonrası ölçülen nabız hasta hakkında gereken doğru değeri vermez.
+Organize ve sistematik bir şekilde yaşam bulgularının ölçümü yapılmalıdır.
+Hastanın durumuna göre müdahalede bulunan kişilere yaşam bulgularının ölçülme sıklığı konusunda bilgi verilmelidir. Cerrahi girişimlerden ya da tedavilerden sonra hastanın komplikasyonlarını değerlendirmek için daha sık ölçüm yapılmalıdır. Hastanın durumu kötüleştikçe ölçüm ve değerlendirme sıklığı artırılmalı ve gerekli durumlarda 5-10 dakika da bir izlem ve değerlendirme yapılmalıdır. Yaşam bulguları tıbbi müdahalenin yönetiminde kullanılır. Örneğin sağlık balamı verenlerin bazen ilaçları belirli kan basıncı değerlerinde vermeleri gerekebilir. Bu bağlamda hastada daha sık yaşam bulgusu takibi yapılıp yapılmayacağından hemşire sorumludur.
+Hemşire, yaşam bulgularını ölçerken, etkin iletişim kurabilmeli, hastaya sakin bir şekilde yaklaşmalıdır.
+Yaşam bulgularındaki değişiklikler doğrulanmalıdır. Bazal değerler değişiklikler hakkında bilgi verebilir. Yaşam bulgularında değişiklik olduğu zaman başka bir hemşireye de ölçüm yaptırılır. Değişiklikler hakkında gerekli uyarı ilgili kişilere yapılır. Yaşam bulgulardaki değişimler kaydedilmeli ve nöbete gelen hemşireye aktarımlar yapılmalıdır
+Ölçülen yaşam bulguları kayıt altına alınmalıdır.
+
+
+Dikkat Edilecek Noktalar
+Doğru ölçüm ve kayı, bakım ve tedaviye yanıtı değerlendirmek açısından önemlidir.
+Yaşamsal bulgular bireye bakım veren sağlık personeli tarafından alınmalıdır.
+Ölçüm sonuçlarının güvenilir olması için kullanılan cihazların kalibrasyonu düzenli yapılmalıdır.
+Ölçüm için bireyin genel durumuna ve özelliklerine göre uygun cihazlar seçilmelidir.
+Bireyin özelliklerine göre yaşamsal bulguların normal sınırları bilinmelidir.
+Ölçüm sonucunda elde edilen veriler değerlendirilir ve sağlık ekibinin diğer üyeleri ile paylaşılır.
+ Ölçüm sonucu elde edilen veriler, önceki ölçümlerde alınan verilerle karşılaştırılmalıdır.
+Bireyin genel durumu, tıbbi tanısı/tanıları, tedaviler ve kullanılan ilaçları bilinmeli ve ölçüm sonuçları ile birlikte değerlendirilmelidir.
+ Yaşamsal bulgular sistematik olarak alınmalıdır.
+Non invaziv monitörizasyon:
+Gözlem
+Pulse oksimetre
+Steteskop
+Kan basıncı ölçümü
+EKG
+Vücut ısısı
+Serebral kan akımı ölçümü gibi yöntemleri içerir.
+
+İnvaziv monitörizzasyon:
+Arter katateri
+Santral ven kateterşzasyonu
+Pulmoner arter kateterizasyonu
+Kardiyak output ölçümü
+Karışık venöz oksimetre
+İntrakranial basınç monitörü
+Juguler venöz O2 monitorizasyonu
+Mesane kataterizasyonu gibi yöntemleri kapsar.
+
+
+Hasta başı monitör:
+
+VÜCUT SICAKLIĞI
+Isı: Bir maddenin molekülerinin kinetik ve kimyasal enerjilerinin toplamıdır. Isı, bir maddenin sıcak ya da soğuk oluşunu ifade eder. 
+Vücut sıcaklığı, vücutta oluşan ısı ile kaybedilen ısı arasındaki dengeyi gösterir Vücudunun fonksiyonlarını sürdürebilmesi için belli bir ısıya gereksinimi vardır 
+Isı ve Sıcaklık Arasındaki Farklar 
+Sıcaklık; maddeyi oluşturan taneciklerden birinin ortalama hareket(kinetik) enerjisini ifade eden değerdir. 
+Isı; Bir başka şekilde bir maddeyi oluşturan taneciklerin toplam hareket enerjisine ısı denir.  Bu maddeyi oluşturan taneciklerin hareketlerinden dolayı hareket (kinetik)  enerjileri vardır. 
+Isı bir enerji çeşidi, sıcaklık ise bir ölçüm. 
+Isı kalorimetre kabı ile sıcaklık termometre ile ölçülür. 
+Isı birimi kalori (cal) veya Joule, sıcaklık birimi ise derecedir. 
+Isı, madde miktarına bağlıdır, sıcaklık ise madde miktarında bağlı değildir. 
+Vücut ısısı, vücut tarafından üretilen ısı ile dış ortama kaybedilen ısı arasındaki dengeyi gösterir. İnsan vücudunun işlevlerini devam ettirebilmesi için belli bir sıcaklığa ihtiyaç vardır. Vücut sıcaklığı, iç sıcaklık (core temperature) ve yüzeysel sıcaklık (surface temperature) olmak üzere iki türdür.
+İç sıcaklık (core temperature), vücudun derin dokularında oluşan ısıdır. İç sıcaklık çok iyi düzenlenmiştir.
+Yüzeysel sıcaklık (surface temperature), vücudun yüzeyinde oluşan ısıdır ve çevre sıcaklığı ile ilişkili olarak düşer ya da yükselir.
+Çevresel koşullar ve fiziksel aktivitedeki değişimlere rağmen, insanların sıcaklık kontrol mekanizmaları vücut sıcaklığını (derin dokuların sıcaklığı) sabit tutar Bununla birlikte, yüzey sıcaklığı; kan akışına ve dış ortama kaybedilen ısı miktarına bağlı olarak değişir. Vücut dokuları ve hücreler 36-38°C arasında fonksiyonlarını sürdürürler.
+Vücut sıcaklığı gün içinde de değişim gösterir. En düşük sabah saat 6’da, en yüksek akşam saat 4’de olur. Herkes için tek bir normal değer yoktur. Günlük doğal ritm (circadian ritm) vücut sıcaklığında 0.5 derecelik değişimler yapar. Yetişkinler için kabul edilebilir değerler yaş, cinsiyet, fiziksel aktivite ve sağlık durumuna göre değişir.
+Kadınların vücut sıcaklığı değişimleri erkekler göre daha fazladır. Menstürual döngüdeki hormnal değişimler buna neden olur. Mensturasyon sırasında progesteron seviyelerinde artma ve az olur. Progesteron seviyeleri düşükken vücut sıcaklığı normalden biraz daha düşüktür. Düşük vücut sıcaklığı ovulasyon evresine kadar devam eder. Ovulasyon evresinde progesteron seviyelerinde vücut sıcaklığında da artmaya sebep olur. Bu değişimler kadınların hamileliğe hazırlanmasında üretken dönemi gösterir. Menapoz döneminde vücut sıcaklığı değişimleri görülür. Menstural dönemi biten kadınlarda 5 dakikada 30’ler yaşar ve vücut ısısında 4 dereceye varan artmalar olabilir.
+Ölçümün yapıldığı yere göre de Pulmoner arter ölçümü vücut sıcaklığına en yakın değerleri gösterir. Yüzeyel ölçüm yapılan yerlerden değişim gösterir. Vücut sıcaklı en doğru gösteren bölge pulmoner arterdir çünkü vücudun her yerinden gelen kanın karışım alanıdır.
+2.1. Vücut Sıcaklığının Düzenlenmesi
+Organizmada üretilen ve kaybedilen ısı arasında denge çeşitli kontrol mekanizmaları ile sağlanır. Bu mekanizmalar; sinirsel kontrol, deri ve terlemedir.
+2.1.1. Sinirsel Kontrol
+Hipotalamus, ısı üretimi ve kaybının fiziksel ve kimyasal süreçlerini bir arada düzenleyen merkezdir. Hipotalamusun ısıyı kontrol eden mekanizmasına hipotolamik termostat adı verilir. Hipotalamik termostat, vücut sıcaklığının çok yüksek ya da çok düşük olduğunu reseptörler yolu ile haber aldığında sıcaklığı yükseltici veya düşürücü işlemleri başlatır. Hipotolomik termostat, vücut sıcaklığı yükseldiği zaman ısıyı düşürmek için üç önemli mekanizmadan yararlanır.
+Vazodilatasyon: Isı kan dolaşımı ile deriye taşnarak buradan kaybedilir.
+Terleme: Buharlaşma yolu ile gerçekleşir.
+Isı üretiminin azalması: Metabolizma ve titreme hızı yavaşlatılarak ısı üretimi azaltılır.
+Vücut sıcaklığı, düştüğü zaman ise bu sayılan mekanizmalar tam tersine işletilerek sıcaklık yükseltilmeye çalışmak için üç önemli mekanizmadan yararlanır.
+Vazokonstrüksiyon: Deriye olan kan akımı dolayısıyla ısı kaybı azaltılır.
+Piloereksiyon: Tüylerin dikleşmesi, yalıtkan hava tabakası.
+Isı üretiminin artması: Titreme ile bir piroksin hormonu salınır ve ısı üretimi artmaya başlar.
+Derinin Görevi: Deri dokuların vücut içinde    tutmasını sağlar, derinin ikinci görevi ısıyı toplamak, dağıtmaktır ve ısı duyusunu almaktır.
+Terleme: Vücut sıcaklığı yükseldiğinde hipotalamustan çıkan uyarılar ter bezlerini uyararak, terlemeyi başlatır.
+2.1.2. Isı Üretimi
+İnsan vücudunda ısı üretimi, metabolizma sonucu gelişir. Metabolizma, kısaca vücut hücrelerindeki tüm kimyasal reaksiyonlardır.
+Organizmada metabolizma için temel kaynak besin maddeleridir.
+Besinler, karbonhidratlar, monosakkaritlere (başlıca glikoz), proteinler amino asitlere ve yağlar, yağ asitleri ve gliserole parçalanırlar.
+Bu besin öğeleri kan dolaşımı yolu ile hücreye ulaştığında, hücrede özel enzimlerin etkisi ile oksidasyon meydana gelir.
+Hücrede oksidasyon sonucunda =karbondioksit + enerji açığı çıkar.
+Bu enerjinin yaklaşık %50'si ısı enerjisidir.
+Kalan enerji birçok hücresel işlev için enerji kaynağı oluşturan ATP (AdenozinTrifosfat) sentezine harcanır.
+Sonuç olarak vücutta açığa çıkan tüm enerji, ısı enerjisine dönüşür.
+2.1.3. Isı Kaybı
+İnsan vücudu, ısı ürettiği gibi iç sıcaklığı dengeleyebilmek için aynı şekilde ısı da kaybeder.
+Radyasyon; iki cisim arasında herhangi bir temas olmaksızın ısının bir cismin yüzeyinden diğer bir cismin yüzeyine aktarımıdır. Vücut dışarıya ısı ışınları yayar, böylece ısı kaybı gerçekleşir.
+Normal oda ısısında çıplak duran birey normal ısı kaybının %60’ını bu şekilde kaybeder. Aynı şekilde çevrede bulunan eşyalar ve cisimlerden de (duvar, güneş, soba, v.b) ısı ışınları yayılır. Vücut bu ısınları alır.  Eğer vücut ısısı, bu cisimler tarafından yayılan ısıdan fazla ise, vücuttan sıcaklık kaybı olur. 
+Bu nedenle, vücut sıcaklığı yüksek olan bireyin giysilerinin çıkarılması, ısı kaybını arttırır ve yüksek ateşin düşürülmesine yardım eder. Aynı şekilde, soğuk havalarda kalın giysilerin giyilmesi, radyasyon yolu ile ısı kaybını azaltır. 
+Kondüksiyon; ısının bir cisimden diğerine doğrudan temas yolu ile aktarımıdır. Isı aktarımı, ısısı yüksek olan cisimden ısısı düşük olan cisme doğrudur. Temas eden iki cisim arasında ısı aktarılmasıdır. Cisim ile vücut arasında ısı eşitleninceye kadar ısı aktarımı devam eder.
+Konveksiyon; ısının deri yolu ile havaya aktarıl diktan sonra hava akımı yolu ile kaybedilmesidir. Isı önce kondüksiyon yolu ile havaya yayılır, sonra hava akımı ile uzaklaştırılır.
+Evaporasyon; buharlaşma yolu ile olan ısı kaybıdır. Çevre sıcaklığı vücut sıcaklığından yüksek olduğu durumlarda vücut ısısı radyasyon ve kondüksiyon yoluyla kaybedilemez, tam tersine kazanılır. Bu şartlarda vücudun ısı kaybedebilmesi için tek yol evaporasyon yolu ile ısı kaybıdır. Vücut terleyerek ısı kaybeder.
+Bir gram ter veya suyun vücuttan buharlaşmasıyla 0.6 kalori kaybedilir. Deri ve Akciğerlerden günde 600-900 ml sıvı kaybedilir. Buharlaşma ve terleme ısı kaybını artırır. 
+ 
+
+Vücut Sıcaklığının Düzenlenmesi 
+Sinirsel Kontrol: Hipotalamus, termostat görevi üstlenerek, vücut sıcaklığının düzenlenmesini sağlar. Hipotalamus’un vücut ısısını kontrol eden mekanizmasının tümüne “hipotalamik termostat” denir. Hipotalamik termostat vücut ısısının yüksek ya da düşük olmasına göre gerekli işlemleri başlatır. 
+2. 2.Vücut Sıcaklığını Etkileyen Faktörler
+Yaş: Yeni doğanlar vücut sıcaklığının %30'unu baş bölgesinden kaybeder. Yaşlılarda deri altı yağdokusu azalmış, ter bezlerinin faaliyetleri ve metabolizma hızı düşmüştür. Bu nedenle yaşlıların vücut sıcaklığı yetişkinlere göre daha düşüktür.
+Fiziksel aktivite: Kas çalışması sonucu metabolizma hızı yükselir ve vücut sıcaklığı artar.
+Hormon düzeyi: Progesteron vücut sıcaklığını arttırır (menopoz). Menstrual siklus beden ısısını arttırır. Tiroit bezinden salgılanan Tiroksin ve Triiyodotironin hormonları metabolizmayı arttırır ve böylece ısı üretimi de artmış olur. 
+Emosyonel durum: Fiziksel ve duygusal stres sonucu sempatik sinir sistemi uyarılır, epinefrin ve norepinefrin salgısı artar, metabolizma hızlanır ve vücut sıcaklığı artar.
+Çevre: Havanın soğuk ya da sıcak olması vücut sıcaklığını etkiler. Ortam sıcaklığı bu değerlerin üzerine çıktığında, vücut sıcaklığı yükselmeye başlar. Ortam sıcaklığı çok düşük ise metabolizma yavaşlar, vücut sıcaklığı düşer.
+Sempatik Sinir Sisteminin Uyarılması: Sempatik Sinir Sisteminin uyarılması ile salgılanan epinefrin ve norepinefrin metabolizmayı hızlandırır, böylece ısı üretimi de artar. 
+Bazal Metabolizma Hızı: bireyin dinlenme halinde ve uyanıkken harcadığı enerji bazal metabolizma anlamına gelmektedir. 
+Çocukların bazal metabolizma hızı erişkinlerden daha yüksek, 
+Kadınların bazal metabolizma hızı erkeklerden daha düşüktür. 
+Büyüme hormonu ve erkek cinsiyet hormonu bazal metabolizma hızını arttırır. 
+Vücut ısısı yükseldiği zaman; sıcaklığı azaltmaya çalışır. 
+Vazadilatasyon (Kan dolaşımı hızlanır ve ısı kan dolaşımı ile deriye taşınır ve soğur.) 
+Terleme (Vücut ısısı buharlaşma yolu ile kaybedilir.) 
+Isı üretiminin azaltılması (Metabolizma yavaşlayarak ısı üretimi azaltılır.) 
+Vücut ısısı düştüğü zaman; sıcaklığı arttırmaya çalışır. 
+Vazokontrüksiyon (Kan dolaşımı yavaşlar ve deriye kan akımı azalır ve sıcaklık kaybı azalır.) 
+Piloereksiyon (Derideki tüyler dikleşerek yalıtkan bir tabaka oluşur. Terleme azalır.) 
+Isı üretiminin artması (Metabolizma hızı artar ve titreme ile birlikte sıcaklık yükselir) 
+
+2. 3.Vücut Sıcaklığı Sınıflandırma ve Anormal Vücut Sıcaklığı
+
+Vücut sıcaklığı; ısı üretimi, ısı kaybı, az miktarda korunması ve bunların kombinasyonlarıyla değişir. Bu değişimin şekli hastanın kliniği hakkında bilgi verir.
+Ateş (preksi): Isı üretimi ile ısı kaybı arasındaki denge bozulduğudur. Ateşin nedeninin belirlenmesinde fiziksel ve enfeksiyon semptomlarının yanı sıra çevre ısısındaki değişimler de göz önünde bulundurulmalıdır. Bakteri ve virüslerin salgıladıkları toksinler vücut sıcaklığının yükselmesine neden olur. Hipotalamik termostat uyarılarak ısı değişimine uyum sağlanmaya çalışılır. Vücut sıcakladığının yükseldiği evrede bireyde üşüme ve titreme meydana gelir. Daha sonra üşüme azalır ve ısı kaybedilir. Ateş vücudun önemli bir savunma mekanizmasıdır. Sıcaklığın 39 oc yükselmesi vücudun immün sistemini güçlendiren interferonu uyararak viral enfeksiyonlarla savaşmasını sağlar. Ateş, metabolizma hızını ve oksijen tüketimini arttırır, terleme ve buharlaşma ile su kaybını arttırarak da dehidratasyona neden olabilir. Bu nedenle hastanın oksijenlenmesi ve sıvı alımı açısından desteklenmesi önemlidir.
+Vücut ısısının 41 °C nin  üzerinde olması  durumuna hiperpreksi denir. 
+Ateş Yükselmeye Başladığında Birey; Önce üşür kalın giyinme/örtünme gereksinimi duyar 
+Ayrıca, 
+Titreme, 
+Vazokonstrüksiyon nedeniyle deride soğukluk ve solukluk, 
+Piloereksiyon, 
+Kalp atım sayısı ve solunum sayısında artma görülür. 
+Ateş; Zararlı mı ? Faydalı mı ? 
+Ateş, hastalık değildir. En erken görülen akut faz yanıtıdır. Uygunsuz bir yanıt değildir Genellikle kendiliğinden düzelir 
+Ateşin doğrudan bir zararı saptanmamıştır. Önemli bir savunma mekanizmasıdır. Sıcaklık arttığında bir çok patojen çoğalamaz 
+Orta derece ateşte;
+İmmün yanıtlarda artar,
+Antikor yapımı artar, 
+Lökosit sayısı artar, 
+Virüslere karşı bazı koruyucu maddelerin salınması artar.
+Ateş Tipleri;
+İntermittent (aralıklı ateş): Vücut sıcaklığı gün içinde normal ve yüksek olarak ölçülür, değerler dönemler halinde birbirini takip eder.
+
+
+Remittent (dalgalı ateş): Vücut sıcaklığı normalin üstündedir ve gün boyu normal değere inmez.
+
+Sürekli (konstant) ateş: Vücut sıcaklığı sürekli yüksektir ve gün içinde vücut sıcaklığı 2 dereceden daha az değişim gösterir. 
+
+Tekrarlayan (relapsing) ateş: Vücut sıcaklığı birkaç gün ateşsiz devam eder ve sonra tekrardan yükselir.
+
+
+Ondülans ateş: Vücut sıcaklığı birkaç gün için de yavaş yavaş yükselir.
+
+İnvers (ters) ateş: Vücut sıcaklığı sabah ölçümlerinde daha yüksek, akşam ölçümlerinde daha düşüktür.
+Yüksek vücut sıcaklığı farklı yöntemlerle normal değerlere düşürülebilir. Yüksek ateşin birden düşürülerek, normale dönmesine Kriz tipi ateş düşmesi, Yüksek ateşin kademeli olarak yavaş yavaş düşürülerek normal değerlere ulaşmasına ise Lizis tipi ateş düşmesi denir. 
+
+
+ATEŞ 
+
+Sıcaklık çarpması; ısı kaybının yetersizliği sonrası görülür (uzun süre güneşte kalma vb.). Ölüm oranı yüksek ciddi bir durumdur. Sıcak çarpması açısından riskli kişiler; bebekler, yaşlılar, kardiyovasküler hastalığı olanlar, hipotiroidi ve diyabeti olanlardır. Ayrıca diüretik kullanan hastalar, güneşin altında çalışan kişiler (inşaat işçisi, atletler, çiftçiler) de risk altındadır.
+Belirti ve bulguları; aşırı susuzluk, konfüzyon, mide bulantısı, kas krampları, inkontinans, baş dönmesi sıcak çarpmasının belirti ve bulguları arasında yer alır. Cilt kuru ve sıcaktır.
+Elektrolit kaybı ve hipotalamusun fonksiyon yapamaması sonucunda hasta terlemez. Vücut sıcaklığı 45°C kadar çıkabilir.
+Soğutma önlemleri hızlı bir şekilde alınmaz ise hastada kalıcı nörolojik hasar görülebilir.
+Hiperpreksi: Vücut sıcaklığının normal değerinin üzerine çıkmasına hipertermi, 410C' ye ulaşmasına ise hiperpireksi denir. Vücut ısısı 420C'ye ulaştığında beyin hücreleri etkilenir. Vücut ısısı 440C'ye ulaştığında beyin hücreleri ölür, solunum merkezi durur, doku proteinleri yıkılır, vücut enzimleri inaktive olur ve ölüm gerçekleşir. Yüksek ateş birçok hastalığın belirtisidir.
+Hipotermi: Hipotermi, vücut sıcaklığının 36 oc altına düşmesi durumudur. Terapotik hipotermi; cerrahi müdahalelerde, kanama riskini, metabolik ihtiyacı ve vücudun oksijen ihtiyacını azaltmak için, hastaya istemli olarak hipoterminin uygulanması durumudur. Vücut sıcaklığı 35 oc altına düştüğünde hasta titreme, hafıza kaybı, depresyon yaşar, algılama gücü azalır. Sıcaklık 34.4 C altına düştüğünde nabız, solunum ve kan basıncı düşer, hastada siyanoz gerçekleşir. Hipotermi ilerlerse bilinç kaybı, aritmi ve ağrılı uyarana karşı tepkisizlik oluşur. Donma durumunda, hasta yavaş yavaş ısıtılır ve etkilenen bölgedeki his kaybı değerlendirilir.
+
+
+2.4. Vücut Sıcaklığını Ölçen Araçlar
+Vücut sıcaklığının ölçülmesinde farklı tipte termometreler kullanılır. Kullanılacak termometrenin tipi hastanın sağlık durumuna, yaşına, hizmet aldığı kurumun politikasına göre değişir. Vücut sıcaklığı ölçümünde kullanılan termometreler;
+Elektronik (dijital göstergeli) termometre
+Disposable (tek kullanımlık) termometre
+Timpanik membran termometre
+Otomatik monitör
+Elektronik (Dijital Göstergeli) Termometre
+Elektronik termometre; sıcağa duyarlı alıcıları olan pille çalışan termometre tipidir (Resim 1). Aksiller, oral, rektal ve deriden kullanım için üretilmiş bir ölçüm aracıdır.
+
+Resim 1. Elektronik termometre
+Dissposable Termometre
+Disposable (tek kullanımlık) termometre son yıllarda yaygın olarak kullanılan termometredir (Resim 2). Plastikten yapılmış, ince, cilde yapıştırılarak kullanılan, üzerinde sıcaklık alıcıları bulunan ölçme aracıdır. Alıcılar sıcaklığa göre renk değiştirir.
+
+Resim 2. Dissposable (tek kullanımlık) termometre
+Sınırlılıkları;
+Özellikle hipertermi süresince ısı değişikliklerini saptamada yetersiz kalır 
+Terleme yapışkanlığı bozar 
+Çevresel ısıdan çabuk etkilenir 
+Timpanik Membran Termometre
+Timpanik membran termometreler, otoskoba (kulak muayene aracı) benzeyen ve pille çalışan termometrelerdir (Resim 3). Bu termometrelerin sıcaklığa duyarlı alıcı ucu vardır ve ölçüm yapmadan önce alıcı üzerine tek kullanımlık prob yerleştirilir. Alıcıları hassastır. Sık sık kontrol edilmelidir.
+
+Resim 3. Timpanik membran termometre
+2.5. Vücut Sıcaklığının Ölçüldüğü Bölgeler
+Oral yol
+Timpanik membran yol
+Rektal yol
+Aksiller yol
+Temporal arter
+Ciltten (alın vs şerit termometre ile)
+Avantajlar: 
+Kolay ulaşılabilir bir bölgedir 
+Hastayı (çocukları) uyandırmadan kullanılabilir
+Rahatsız etmez 
+Takipneli hastalarda solunum etkilenmeden ölçüm yapılabilir 
+Vücut iç ısı ölçülmesini sağlar 
+Kısa sürede ölçüm sağlar 
+Oral alımlardan etkilenmez 
+Sınırlılıkları; 
+Tek kullanımlık uygun büyüklükte alıcı başlığı kullanmayı gerektirir 
+Otitis Media ya da kulak kirinde yanlış ölçüme neden olur 
+Kulak zarı ve kulak ameliyatı olmuş hastalarda kullanılmaz 
+Yelpaze, ısıtıcı, kuvöz vb ısıtıcılarından etkilenir 
+Cam Termometre: 
+Cam içinde sıvı civanın, mukoza ve deri ile teması ile, sıcaklık civayı yükseltir. 
+Gümüş renkte, akışkan, parlak ve kokusuz bir elementtir. 
+Termometreler, darbe, düşme ve çarpmalarda kırılması 
+Cıvanın oda ısısında kolayca buharlaşması nedeniyle, çevre ve insan sağlığını tehdit eder. 
+Civa buharı, hücre zarından kolaylıkla geçerek, beyne ulaşmakta ve dokularda birikim yaparak geri dönüşümü olmayacak nörolojik bulgulara ve ölümle yol açabilmekte. 
+T.C. Sağlık Bakanlığı İlaç ve Eczacılık Genel Müdürlüğü 20 Ekim 2009 cıvalı termometreleri ''sağlık ve güvenlik açısından tehlike oluşturduğu'' gerekçesiyle satışı ve kullanımı durdurmuştur . 
+Oral Yolla Vücut Sıcaklığı Ölçme
+Dilaltı bölgesindeki kan damarları yüzeye yakın olduğu için doğru ve çabuk değer verir. Oral yolla yiyecek içecek tüketiminden 30 dk. sonra ölçüm yapılmalıdır. Oral yolla vücut sıcaklığı, aşağıda belirtilen hastalarda ölçülmez.
+Bilinçsiz hastalarda, mental geriliği olanlarda, bebek ve küçük çocuklarda,
+Solunumu ağızdan yapanlar ve oksijen tedavisi alanlarda,
+Ağız ve burun ameliyatı olanlar veya ağzında yara olanlarda,
+Konvülsiyonu olan hastalarda, oral yolla vücut sıcaklığı ölçümü yapılmaz.
+
+Doğru ölçüm için, sıcak ya da soğuk yemek yiyip-içmeden hemen sonra, sigara içildikten ve sakız çiğnendikten sonra ölçüm yapılmamalı, 15-20 dakika beklenmelidir 
+
+Timpanik Membran Yolla Vücut Sıcaklığı Ölçme 
+Timpanik membran termometrenin alıcı ucu dış kulak kanalının 1/3 dış bölümüne yerleştirilerek vücut sıcaklığı ölçülür.
+Rektal Yolla Vücut Sıcaklığı Ölçme
+Bebeklerde, çocuklarda, bilinçsiz ve zayıf hastalarda vücut sıcaklığı rektal yolla ölçülebilir. Erişkinde lateral veya prone pozisyonda, bebekte ise supine pozisyonda ayak bileklerinden tutularak kaldırılır ve derece yerleştirilir.
+Rektum ameliyatı olanlarda, diyare durumlarında, perianal bölgede kızarıldık, yara vb. durumlarda, defekasyondan hemen sonra bu yolla ölçüm yapılmaz.
+Rektal yolla vücut sıcaklığı ölçümünde elektronik termometre kullanılacak ise termometre kendine özgü disposable kılıfa yerleştirilmelidir. Doğru sonuç alınmasını engelleyeceği için kılıfa kayganlaştırıcı jel uygulanmamalıdır.
+Bebeklerde 1-1,5 cm, çocuklarda 2-2.5 cm, erişkinde 3-3.5 cm anüsten içeriye ilerletilmelidir.
+Aksiller Yolla Vücut Sıcaklığı Ölçme
+Vücut sıcaklığı ölçümünde en sık kullanılan bölgelerden biri aksiler bölgedir. Aksiller yolla elde edilen vücut sıcaklığı değeri oral ve rektal yola oranla daha düşüktür. Bunun nedeni koltuk altının hem dışa açık bir bölge hem de damarlanmasının dil altı ve rektal bölge mukozasına göre daha az olmasıdır.
+Vücut sıcaklığı ölçüm alanları avantaj ve sınırlılıkları ile birlikte Tablo 2'de gösterilmiştir.
+
+
+
+
+Timpanik Membran Sıcaklığı Değerlendirilmesi
+Timpanik membran sıcaklığı ölçümünün uygulama aşamaları ve gerekçeleri Tablo 3’te verilmiştir.
+
+
+
+
+
+Oral Sıcaklığı Değerlendirilmesi
+Oral sıcaklığı ölçümünün uygulama aşamaları ve gerekçeleri Tablo 4’te verilmiştir.
+
+Rektal Sıcaklığı Değerlendirilmesi
+Rektal sıcaklığı ölçümünün uygulama aşamaları ve gerekçeleri Tablo 5’te verilmiştir.
+
+
+Aksiller Sıcaklığı Değerlendirilmesi
+Aksiller sıcaklığı ölçümünün uygulama aşamaları ve gerekçeleri Tablo 6’te verilmiştir.
+
+Temporal Arter Sıcaklığı Değerlendirilmesi
+Temporal sıcaklığı ölçümünün uygulama aşamaları ve gerekçeleri Tablo 7’de verilmiştir.
+
+NABIZ
+Periferal arterlerden kan akımının palpe edilebimesidir. Kalpten pompalanan kan aort duvarını genişletir. Kalp sistolde ortalama 60-70 ml kan aortaya pompalar, bu dalga arterlere yayılır v« arter duvarında oluşturduğu basıncın deri üzerinde palpe edilmesine "nabız” denir. Nabız, vücudun çeşitli noktalarında kan akışının elle hissedilmesi durumudur. Kan sürekli bir devir halinde vücut damarlarında akar ve nabız, dolaşımın somut bir göstergesidir.
+3.1. Nabız Özellikleri
+Nabız, kalbin sol ventrikülünün sistolü ile aorta atılan kanın damar duvarına yaptığı basıncın deri üzerinde palpasyonla hissedilmesidir. Nabız, kalp hızının ve ritminin göstergesidir. Nabız hızı, 1 dakikadaki kalp vuruş sayısıdır. Kalbin her sistolü ile sol ventriküldeki kan aorta atılır. Her atımda atılan kan miktarı ortalama olarak 60-70 ml kadardır; buna stroke volüm denir. Kalbin bir dakikada damarlara attığı kan miktarına kardiyak output denir. Kardiyak Output stroke volümün bir dakikadaki toplamıdır.
+Kardiyak output: Strok volüm X Nabız hızı
+3.2.Nabız Çeşitleri
+Nabız ritmi: Kalp atımları normalde birbirinin ardı sıra ve düzenli aralıklarla oluşur. Hissedilen kalp atımları arasındaki süre düzenli ve birbirine eşittir. Buna regüler (düzenli) nabız denir. Atımlar arası sürenin kısa ya da uzun olması veya bazı atımların hissedilmemesi durumuna, aritmi (ritim bozukluğu) denir.
+Nabız hızı: Kalbin bir dakikadaki atım sayısıdır. Yetişkinlerde istirahat halinde normal nabız hızı dakikada 60-100 atımdır. Bebek ve çocukların nabız sayısı daha hızlı iken, yaş ilerledikçe nabız sayısı azalır (Tablo 8). Bu nedenle nabız hızı kişinin yaşına göre değerlendirilmelidir.
+
+	Nabız hızının dakikada 100'ün üzerinde olma durumuna taşikardi, 60'ın altında olma durumuna bradikardi denir.
+Nabız Hızını Etkileyen Faktörler
+Egzersiz: Fiziksel aktivitelerin artması ile kalp atım hızı artar.
+Hipertermi: Yüksek ateş metabolik hızı artırarak nabız hızını artırır.
+Hipotermi: Nabız hızını azaltır.Akut ağrı ve anksiyete: Akut ağrı ve anksiyete sempatik uyarı oluşturur ve nabız hızını artırır.
+Kronik ve uzun süren ağrı: Uzun süren ve kronik ağrı, parasempatik uyarı oluşturur ve nabız hızını yavaşlatır.
+İlaçlar: Bazı ilaçlar nabız hızını etkiler. Örneğin; dijital ve betablokerler kalp atım hızını azaltırken atropin hızlandırır.
+Yaş: Nabız hızı, yenidoğan döneminden puberte ve erişkinlik dönemine doğru azalır. Yenidoğanlarda nabız sayısı, dakikada 120-160 atım iken, yetişkinlerde 60-100 atımdır.
+Metabolizma: Hipertiroidizm nabız hızını artırırken, hipotiroidizm nabız hızını azaltabilir.
+Kanama: Kan kaybı sempatik uyarım nedeniyle nabız hızını artırır.
+Postür değişikliği: Ayakta durma ya da oturma nabız hızını artırırken, uzun süre yatma nabız hızını azaltır.
+Nabız hacmi (dolgunluğu): Sol ventrikülün her sistolünde perifere gönderdiği kan miktarı nabzın dolgunluğunu belirler. Nabzın dolgunluk derecesi sol ventrikülün sistol gücünü ifade eder. Normalde nabız dolgundur ve kolay palpe edilir. Bazı durumlarda nabzın dolgunluğu değişir. Kan volümü arttığında, kanın arter duvarına yaptığı basınç artar; dolayısıyla nabız daha dolgun hissedilir. Bu duruma, dolgun nabız denir.
+Hastanın kan volümünün azaldığı kanama, kalp yetmezliği ve şok gibi durumlarda nabız dolgunluğu azalır ve hızı artar. Bu tip nabza filiform nabız (ipliksi) denir. Sağlıklı bir arter duvarı yumuşak ve dolgundur. Kan basıncının yükselmesine neden olan arterioslderoz durumunda arter duvarı sert olarak palpe edilir.
+3.3. Periferal Nabız Bölgeleri ve Periferik Nabız Değerlendirme
+Nabız ölçümü atardamarların yüzeye yakın olduğu noktalardan yapılır. Kalp dışında vücutta nabzın değerlendirildiği bölgelere periferal nabız bölgeleri denir. Bu bölgeler Şekil l'de gösterilmiştir.
+
+Şekil 1. Nabız Alınan Bölgeler
+Temporal arter: Başta temporal kemik üzerin. de, gözün yan hizasında, şakak bölgesindedir Çocuklarda nabız sayımında kullanılan uygun bir bölgedir.
+Karotis arter: Boyunda, sternokleidomastoid kası ile trakea arasında yer alır. Bu arterin yerini bulmak için önce işaret parmağı ile tiroid kıkır dak palpe edilir, sonra el yana doğru kaydırılır ve trakea ile sternokleidomastoid kası arasında kalan oluğa iki ya da üç parmak yerleştirilir Temporal arter kardiak arrest, şok ve diğer bölgelerden nabız hissedilemediği durumlarda nabız almak için en uygun bölge olup, kalbe yakın ve büyük bir damar olduğu için daha dolgundur.
+Brakial arter: Antekubitalfossada, biceps ve triceps kasların arasında bulunur. Ön kol bölgesindeki dolaşımın değerlendirildiği ve kan basıncının ölçülmesi sırasında stetoskobun yerleştirildiği bölgedeki arterdir.
+Radial arter: Ön kolda bileğin iç kısmında bulunur. Parmaklarda kan dolaşımının değerlendirilmesinde periferik olarak nabız özelliklerinin en kolay hissedildiği ve en sık kullamlan arterdir.
+Ulnar Arter: Ön kolda bileğin dış kısmında bulunur.
+Femoral arter: Her iki inguinal ligamentin altında, simfizis pubis ve spina iliaca anterior süperior arasında bulunur. Kardiyak arrest ya da şok durumunda nabız diğer bölgelerden alınamadığında ve uyluk bölgesinde kan dolaşımının değerlendirilmesinde kullanılır.
+Popliteal arter: Her iki popliteal çukurda dizin arkasında bulunur. Alt bacak bölgesinde dolaşımın değerlendirilmesinde kullanılır.
+Posterior tibial arter: Her iki ayak bileğinin iç yüzeyinde, medial malleolusun üstündedir.  Ayakta kan dolaşımının değerlendirilmesinde kullanılır.
+Dorsalis pedis arter: Birinci ve ikinci ayak parmağı, ekstansör tendonun arasında bulunur. Ayakta kan dolaşımının değerlendirilmesinde kullanılır.
+Kardiyovasküler tanılamada nabız ve kan basıncı değerlendirmesinin önemli bir yeri vardır.
+
+
+
+3 4. Nabız Sayma Tekniği Saymada Amaç, Kalbin Çalışması Hakkında
+Nabız saymada amaç kalbin çalışması bilgi edinmek; nabız hızını, ritmini, dolgunluğunu belirlemek, ateş ve solunum hızı ile nabız arasındaki ilişkileri değerlendirmektir. Nabız belli kurallara göre alınır. 
+Periferik Arterlerden Nabız Sayma: Yetişkinlerde ve çocuklarda en çok nabız alınan bölge radial arterdir. Çünkü radial arter daha kolay lokalize edilir ve hissedilir. Bebeklerin nabzını değerlendirmede, öncelikle brakial arter, alternatif olarak da femoral arter kullanılır. Nabız saymada en çok radial arter kullanılır.
+Diğer arterlerden nabız sayma; Karotis, temporal, brakial, femoral, dorsalispedis, popliteal ve posterior tibial arterlerden nabız alınırken radial arterden nabız almada kullanılan tekniğin aynısı uygulamr (5,10) (Tablo 9).
+Dikkat Edilecek Noktalar
+Nabız alırken hızına, ritmine ve dolgunluğuna dikkat edilir.
+Nabız saymadan önce hastanın genel durumu ve nabız hızını etkileyecek faktörler (yaş, egzersiz, yorgunluk, yemek yeme gibi) değerlendirilir. Eğer hasta herhangi bir aktivitede bulunmuşsa 20-30 dk dinlendirilir. Aksi halde kalp atımları hızlı olduğu için doğru sonuç alınamaz.
+Taşikardi, filiform nabız, bradikardi, aritmi gibi durumlarda, yenidoğanlarda ve ilk defa sayılıyorsa nabız daima I dk. süresince sayılır.
+Çocuklarda nabız alma işlemi vücut sıcaklığı ölçümünden önce yapılır. Çünkü çocuk ağlar ya da huzursuz olursa nabız ölçümü doğru yapılamaz.
+Arterio-venöz fistül (cerrahi yöntemle bir ven ve bir arterin birleştirilmesi) yapılmış arter üzerinden nabız alınmaz.
+Nabız alınacak bölgeye göre hastaya pozisyon verilir. Hasta ayakta iken nabız alınmaz.
+Nabız alınan arterin kalp seviyesinde olmasına özen gösterilmelidir.
+Karotis arterden nabız alınırken hasta solunu sıkıntısına girebileceğinden arter üzerine fazla bastırılmaz ve kesinlikle çift taraflı alınmaz.
+Bebeklerde karotis arterden nabız alınması önerilmez. Çünkü bebekte boyun kısa olduğu için bulunması zordur. Ayrıca hava yoluna bası yaparak solunum engellenebilir. 
+Kalbin Apeksinden Nabız Sayma
+Bebeklerde ve çocuklarda sıklıkla kullanılan bir yoldur. Kalp üzerine etki eden ilaçları vermeden önce ve sonra, aritmide ve 2-3 yaş altı çocuklarda mutlaka kalbin apeksinden nabız alınmalıdır. Atımın kalbin apeksinden alınması özellikle düzensizliklerin hissedilmesinde çok önemlidir. Kalbin apeksinden nabız oskültasyonla (stetoskopla dinlenmesi) alınır (10).
+
+
+Kalbin Apeksinden ve Radial Arterden Birlikte Nabız Sayma
+Kardiyovasküler sistemle ilgili hastalıklarda radial nabızda düzensizlik olduğu durumlarda apikal ve radial nabzın birlikte alınıp, değerlendirilmesi gerekir. Normalde apikal nabız ile radial nabız değerleri aynıdır, ancak kalbin yaptığı çok zayıf atımlar perifere yansımadığı, arter duvarının yapısındaki problemler nedeniyle atım dalgaları damar boyunca yayılamadığı için apikal nabız hızı, radial nabız hızından daha fazla olur. Bu durumda apikal ve radial nabız sayımı aym anda yapılır. Apikal ve radial nabız arasındaki farka defisit denir.
+Periferik nabız değerlendirme uygulama aşamaları ve gerekçeleri Tablo 9’da verilmiştir.
+Tablo 9.
+SOLUNUM
+Solunum mekanizması vücut hücreleri ile atmosfer arasında karbondioksit ve oksijen değişimini sağlar. Solunum sisteminin temel görevi, vücudun dış ortamdan gaz alışverişini sağlamak ve düzenlemektir.
+4.1. Solunum Çeşitleri
+Solunum süreci iki farklı aşamada gerçekleşir.
+İç solunum: Doku solunumu olarak da adlandırılır. Hücreler ve kan arasındaki gaz alışverişidir.
+Dış solunum: Atmosfer ve akciğerler arasında oluŞur. Dış solunumda solunum ve dolaşım sistemi aracılığı ile oksijen kana verilir. Karbondioksit ise vücuttan atılır.
+Solunum 4 evrede oluşur:
+Ventilasyon
+Diftiizyon
+Perfüzyon
+Solunum düzenlenmesi
+Ventilasyon: Havanın atmosferden akciğerlere, akciğerlerden ise atmosfere hareketini ifade eder. Ventilasyon; İnspirasyon (soluk alma) ve ekspirasyondan (soluk verme) oluşur.
+İnspirasyon aktif bir süreç olup toraks ve kasların hareketi ile gerçekleşir. İnspirasyon süresince genişleyen akciğerlerdeki hava basıncı atmosfere göre düşük olduğu için hava akciğerlere dolar.
+Ekspirasyon akciğerdeki havanın dışarı atılmasıdır. Ekspirasyonda akciğer hacmi küçülür ve basınç artar. Dışarı doğru bir basınç farkı geliştiği için hava atmosfere doğru çıkar.
+Difüzyon: Alveoller temiz hava ile dolduktan sonra, oksijenin alveollerden kan dolaşımına, karbondioksitin de aksi yönde akciğer dolaşımından alveollere geçmesi olayıdır.
+Perfüzyon: Akciğer dolaşımına katılan oksijenin dokulara geçmesi, dokularda biriken karbondioksitin de dolaşım yolu ile akciğere girmesidir.
+Solunumun Düzenlenmesi
+Kandaki C02 konsantrasyonu arttığında medulla oblangata uyarılır.
+Frenik sinir, interkostal sinirler aracılığıyla diyafragma kasılır.
+İnterkostal kasların kasılması ile solunum başlar.
+Akciğerler yeterince hava ile dolduğunda 10. vagal sinir inspirasyonu durdurur.
+Diyafragma, kosta ve akciğerler kendi esneklikleri ile eski durumlarına dönerler.
+Kan kimyasındaki değişimlerin ventilasyon üzerindeki etkileri solunum kemoreseptörleri aracılığıyla olur.
+4.2. Solunumu Etkileyen Faktörler
+Bireyin pozisyonu: Birey otururken ya da ayakta dururken göğüs kafesi serbesttir ve rahatlıkla yükselip alçalabilir. Birey yattığında ya da yere eğildiğinde akciğerler tam genişleyemez ve solunum hareketleri bozulur.
+Gelişim dönemi: Yenidoğandan yetişkinliğe kadar gelişim dönemlerinde solunum sayıları farklılık gösterir (Tablo II).
+Fiziksel egzersiz: Fiziksel egzersiz sırasında ya da sonrasında hücrelerin oksijen ihtiyacı artar. Oksijen ihtiyacını karşılamak için dakikadaki solunum hızı da artar.
+Vücut sıcaklığı: Vücut sıcaklığının 0,60C artması solunum hızında dakikada 4 sayılık artışa neden olur. Metabolizmanın hızlanması, hücrelerin oksijen miktarını artırırken dokulardan atılacak karbondioksit miktarını da artırır. Bu nedenle, metabolizma faaliyetlerini artıran her olay, solunumun hızını etkiler.
+Ağrı ve bazı psikolojik sorunlar: Sempatik sinir sisteminin uyarılmasına bağlı olarak solunumun hızı ve derinliği artar
+Bazı hastalıklar: Anemi, pnömotoraks (plevra boşlukları arasına hava girmesi ile alveollerin ya da akciğerin bir kısmının büzüşmesi), amfizem (göğüs duvarının genişleyerek fıçı göğüs hâlini alması), kas hastalıkları ve beyin travması gibi durumlarda solunumun hızı ve derinliği değişir.
+Bazı ilaçlar: Narkotik analjezikler (morfin, diazem vb.), solunum merkezini deprese ederek solunumun hızı ve derinliğini etkiler.
+4 3. Solunum Tipleri
+Solunumun ritmi, düzenli (regüler) ve düzensiz (irgüler) olabilin Yenidoğan (0-28 günlük bebek) ve bebeklerde solunum merkezi tam olarak görevini yapmaya başlamadığından irregüler solunum görülebilir ve bu durum normaldir.
+
+Takipne (taşipne): Solunum hızının normalin üzerinde olmasıdır. Solunum hızlı ve yüzeyseldir, fakat düzenlidir. Bu durumda, hasta veya yaralı ile süreldi iletişim hâlinde olunmalı, korku ve endişelerini gidermeye çalışmalıdır. Ayrıca vücut sıcaklığı da kontrol edilmelidir.
+Bradipne: Solunum hızının normalin altına inmesidir. Solunumun derinliği normal ve düzenlidir. Bu durum, bazı ilaçların ve hastalıkların bir sonucu olarak ortaya çıktığından, iyi bir öz geçmiş alınmalıdır.
+Apne: Solunumun, geçici bir süre durmasıdır. Kalıcı olarak solunumun durması solunum arresti olarak adlandırılır.
+Dispne: Soluk alıp verme sırasındaki solunum güçlüğüdür. Hasta soluk alıp verme sırasında sıkıntı çeker. Bunun sonucunda kanın oksijenlenmesi bozulur.
+Hiperventilasyon: Solunumun hızı ve derinliğinin artmasıdır. Sadece solunum derinliğinin artması hiperpne olarak tanımlanır. Aşırı fiziksel güç sonucu ortaya çıkan Bu durumda hasta hemen dinlendirilmelidir. Hasta ile iletişim kurularak, hastaya derin ve yavaş yavaş soluk alıp vermesi söylenmelidir. Bu durum, solunum hlzım düşürmede yardımcı olacaktır.
+Cheyne-stokes solunum: Solunumun hızı ve derinliğinin bozulması sonucunda meydana gelir. Solunum hızı ve derinliği önce artar, ardından düşer ve hasta apne nöbetine girer. Ağır kalp yetmezliği, üremi (kanda ürenin bulunması) ve nörolojik hastalıkların neden olduğu koma (bilincin tamamen kaybolması) gibi durumlarda görülür. Sık aralıklarla hastanın solunumu kontrol edilmeli ve yalnız bırakılmamalıdır.
+Kusmaul solunum: Solunumun derinliği, normaiden çok fazla artar. Derinliği ile beraber hızı da artar. Genellikle metabolik asidoz ve diyabet (şeker) komasında görülür
+Biot solunum: Hastada, 2-3 takipne solunumdan sonra apne gelişir. Takipne ve apne, periyodik ve düzenli olarak birbirini izler. Bu durum, kandaki oksijen yoğunluğu ile ilgilidir.
+
+Solunumu Değerlendirme
+Solunum değerlendirme uygulama aşamaları ve gerekçeleri Tablo 12’de verilmiştir.
+
+
+
+KAN BASINCI
+Kan basıncı, kalbin sistol fazında sol ventrikülün aortaya attığı kanın aort duvarında yaptığı basınca karşılık damar duvarının verdiği direncin mmHg değeridir. Sol ventrikülün kasılması sonucu kan yüksek bir basınçla aorta gönderilir. Bu sırada arter basıncı en yüksek düzeye ulaşır. Bu basınca sistolik kan basıncı denir. Ventrikülün gevşemesi ile arter basıncı en düşük seviyeye iner. Bu basınca da diyastolik basınç denir. Kan basıncı, kardiyak output ve periferik vasküler direnç ile doğrudan ilişkilidir.
+		Kan Basıncı: Kardiyak Output X Periferik Vasküler Direnç
+Kan basıncı kardiak output, periferik direnç, kan yolümü, kan viskositesi ve damar elastikiyeti gibi aktörlerden etkilenir. Sistolik ve diyastolik kan basıncı arasındaki farka nabız basıncı denir.
+5.1. Kan Basıncım Etkileyen Hemodinamik Faktörler
+Kan Basıncını Artıran Faktörler (5) 
+Kardiyak output artması
+Periferikvasküler direncin artması
+Kan volümünün artması
+Kanın viskozitesinin artması
+Kan Basıncını Düşüren Faktörler (6)
+Kardiyak outputun azalması
+Periferikvasküler direncin azalması
+Kan volümünün azalması
+Kanın viskozitesinin azalması
+5.2. Kan Basıncını Etkileyen 
+Kan basıncı ölçümüne başlamadan önce kan basıncı hakkında yorum yapabilmek etkileyen faktörleri ve nasıl bir etki yaptıklarının bilinmesi gerekir.
+Yaş: Kan basıncı, yaş ile birlikte gruplarının kan basıncı değerleri, birbirinden farklıdır. Çocukların kan basıncı düşüktür.
+Cinsiyet: Menopoz (belirli bir mestrual kanamanın kesilmesi) dönemden sonra döneminde ve devamında, kadınların tansiyonu, aynı yaş grubu erkeklerden daha yüksek değerlere sahiptir.
+Gündelik yaşam, egzersiz ve beslenme: Kan basıncı, sabahın erken saatlerinde daha düşük iken, öğleden sonra yükselir. Akşam saatlerinde ise en yüksek düzeye ulaşır. Günlük yapılan aktivite ile birlikte dokuların oksijen ihtiyacı artar ve kalp daha çok kan pompalamak için çalışır. Bunun sonucunda kan basıncı artar. Sürekli aşırı tuzlu ve yağlı beslenme alışkanlığı olanların damar daralmalarına bağlı olarak tansiyonu yükselir.
+Pozisyon: Kan basıncı, pozisyona bağlı olarak çok az değişikliğe uğrar fakat yatış pozisyonundan birden oturma pozisyonuna geçilirse kan basıncı düşebilir.
+Sempatik sistemin uyarılması: Korku, ağrı, heyecan ve bazı psikolojik nedenler ile sempatik sinir sistemi uyarılır. Bunun sonucunda kalp hızı artar ve kalp hızının artmasına bağlı olarak kan basıncı artar.
+Sigara: Sigaranın damarlarda daralma meydana getirmesine bağlı olarak kan akımı yavaşlar. Bunun sonucunda kan basıncı yükselir.
+Irk: Bazı ırklar, hipertansiyona daha çok eğilimlidir. Afrikalı ve Amerikalılar hipertansiyon komplikasyon eğilimi ve diğer ırklara göre daha fazladır.
+İlaçlar: Antihipertansif (tansiyon düşürücü) ilaçlar, tansiyonun normal sınırlarda kalmasını sağlar. Narkotik analjezikler ve genel anestezide kullanılan hipotansiyon oluşmasına neden olabilir. 
+Bazı hastalıklar: Kalp rahatsızlıkları ve damarlar problem olduğundakalbin kasılma gücü bozulur. Kalbin damarlara gönderdiği kan miktarı azalır ve tansiyon yükselir. Kalbin damarlara gönderdiği kan miktarı azalır ve tansiyon yükselir.
+
+Hipertansiyon (yüksek tansiyon): Bireyin arterial kan basıncının bir süre veya devamlı olarak normal değerlerin üzerinde olmasıdır. Hipertansiyonda sadece sistolik ya da diastolik basınçta olabileceği gibi her ikisi de birlikte yüksek olabilir. Yüksek olan tek ölçüm sonucu kişinin hipertansiyon hastası olduğu anlamına gelmez. Bir kişiye hipertansiyon hastası diyebilmek için en az üç gün üst üste aynı koşulda ve günde en az üç kez ta ölçümü yapılması gerekir. Hipertansiyon toplumumuzun en önemli sağlık sorunlarından biridir. Dünya sağlık örgütü, yetişkin bireylerde hipertasiyon için sınır değeri, 140/90 mmHg olarak belirlenmiştir.
+Hipotansiyon (düşük tansiyon): Bireyin arteri; kan basıncının normal değerlerin altında olmasın hipotansiyon denir. Genellikle sistolik kan basıncı mn 90 mmHg'nin altında olması hipotansiyon olarak kabul edilir, ancak bu değerler bazı bireylerde hiçbir rahatsızlığa neden olmamaktadır. Böyle durumlarda da bu sonuç birey için normal olarak kabul edilebilir.
+Ortostatik hipotansiyon: Bireyin aniden ayağa kalkması ya da yatma pozisyonundan oturur pozisyona geçmesi ile periferik (çevresel) damarlardaki vazodilatasyon hemen eski hâline dönemez. Beyin kanlanması azalır ve hipotansiyon gelişir. Bu duruma ortostatik hipotansiyon denir.
+5.4. Kan Basıncının Ölçülmesi
+Kan basıncı direkt (invaziv) ya da indirekt (non invaziv) olarak ölçülebilir. Direkt yöntem artere ince bir kateter takılmasını gerektirir. İnvaziv kan basıncının sürekli ölçümü yoğun bakım koşullarını gerektirir. Non invaziv ölçüm en sık kullanılan yöntem olup, ölçüm için sifingomanometre ve steteskop yeterlidir. Kan basıncı palpasyon ya da oskultasyonla indirekt olarak ölçülebilir.
+Kan Basıncı Ekipmanları
+Kan basıncım değerlendirmeden önce sifingomanometre ve steteskopu kullanabilme bilgi ve becerisine sahip olmak gerekir. Sifingomanometre basınç manometresi, manşon, pompa ve valf sisteminden oluşur. Manometreyi kullanmadan önce manometrre göstergesinin sıfırda olduğundan emin olmak gerekir. Her 6 ayda bir manometrenin kalibrasyonu yapılmalıdır. Manşonlar ve pompalar değişik boyuttadır. Ekstremiteye uygun büyüklükte manşon kulanılmalıdır. Kan basıncının ölçüldüğü ekstremitenin %40 kadarını kaplayacak ebatta manşon seçilmelidir. Manşonun alt kısmı antekübital bölgenin üstünde olmalı ve steteskopa yer kalmalıdır. Yanlış yerleştirmeler yanlış kan basıncı ölçümü sonuçlarına sebep olabilir.
+Basınç manşonu ve manşet
+ Basınç manşonu kauçuktan yapılmış bir keseye benzer. Manşon, esnemeyen bir kumaştan yapılmış bir kılıf içindedir. Bu kumaş kılıfa manşet denir. Basınç manşonunda iki bağlantı borusunun biri manşonun şişirilmesini sağlayan puar ile diğer ise manometre ile bağlantılıdır. Puar ve bağlantı arasında de hava ayar düğmesi bulunmaktadır. Manşet boyutu bireye uygun seçilmelidir.
+ 
+
+
+
+Stetoskop
+Stetoskop kulaklık, alıcı kısım ve iletim borusundan oluşur. Eğer stetoskop ortak olarak kullanılıyorsa kulaklık kısmının alkolle işlemden önce ve sonra temizlenmesi gerekmektedir.
+
+
+Otomotik Kan Basıncı Monitörleri
+Kan basıncını otomatik olarak ölçen cihazlardır. Aynı zamanda bu araçlarla diğer yaşam bulguları ölçülebilmektedir. 
+
+Doppler Ultrasonu
+Kan basıncı doppler yardımıyla seslerin duyularak belirlenebilmektedir.
+	
+Oskültasyon: sessiz ve uygun sıcaklıkta bir ortamda en iyi şekilde dinleme gerçekleştirilebilir. Her ölçümde hastanın aynı pozisyonda olmasına dikkat edilmelidir. Ölçümde ağrı, anksiyete gibi kan basıncını yükselten etkenler göz önünde bulundurulmalıdır. Hastanın içinde bulunduğu durum ve stres hali kan basıncını etkiler. Bu nedenle sağlık merkezlerinde ya da sağlık personeli tarafından ölçülen kan basıncı değerleri evde ölçülen değerlerden farklı olabilir.
+Kan basıncının indirekt ölçümü basit basınç prensibine dayanır. Arter kollobe olana kadar kan arter içinde serbest şekilde akar. Kafın kan akımını durdurup, oskülte edilen sesi değiştirmesi ve basıncın kademeli olarak azaltılması ile yeniden ilk sesin duyulması sistolik basınç olarak adlandırılır. 1905 yılında Nikolai Korotkoff (Rus cerrah) kafi söndürürken duyduğu sesi bu şekilde tanımlamıştır. İlk korotkoffsesi net, ritmik, tıp tıp sesine benzer nabız hızıyla ilişkili ve yavaşça yükselen bir sestir.
+Sistolik basıncın başlangıcı sesin de başlangıcıdır. Kafı söndürmeye başlayınca duyulan murmur sesi 2. korotkoff sesidir. 3. korotkoff sesi ise damarın genişlemesi ile akımıntürbilans yapması sonucunda oluşur. Bu ses net duyulur ve tap tap şeklinde tanımlanır. 4. korotkoff sesi daha düşük frekanslı zor duyulan bir sestir. 5. korotkoff sesi ise adölesanlarda ve çoğu yetişkinde diastolik basınca karşılık gelir. Bazı hastalarda ses farklı veya net olabilir.
+
+Aşamalar (Basınç Dinamiğiyle İlişkili Korotkoff Sesleri)
+Faz l: Başta belirsiz fakat yavaş yavaş hassasiyeti artan açık vuruş seslerinin olduğu dönem.
+Faz II: Seslerin sürtünme kalitesine sahip olduğu dönem.
+Faz III: Seslerin daha keskin ve daha yoğun olduğu dönem.
+Faz IV: Seslerin boğulduğu ve yumuşak, üfleme kalitesinde olduğu dönem.
+Faz V: Boğulmuş sesin kaybolduğu dönem.
+Amerikan Kalp Derneği ilk sesin sistolik ve 5. sesin de diastolik ses olarak değerlendirilmesini önermektedir. Hastanın bakım sürecinde kan basıncı ölçümü ve değerlendirilmesinden hemşire sorumludur. Bu anlamda doğru ölçüm kritiktir. Eğer oskültasyon işlemi doğru gerçekleştirilmez ise yanlış ölçüm kaçınılmazdır.
+Ultrasonogrefik Steteskop: Eğer hasta düşük arterial nabız dolayısı ile steteskop ile oskülte edilemeyecek durumdaysa ultrasonik steteskop kullanılır. Bu steteskop düşük frekanslı sistolik seslerin özellikle çocuk ve infantlarda oskültasyonu kolaylaştırır.
+Palpasyon: İndirekt ölçümde kan basıncının korotkoff sesi oluşturamayacak kadar düşük olduğu hastalarda palpasyon yöntemi kullanılır. Ciddi kan kaybı ve yetersiz kalp kontraksiyonu oskülte edilemeyecek kadar düşük kan basıncına neden olur. Bu durumda sistolik kan basıncı ancak palpe edilerek alınabilir. Diastolik kan basıncını palpasyonla fark etmek zordur. Palpasyonla sadece sistolik kan basıncı ölçülebilir ( Örn: 78/-)
+Palpasyon tekniği oskültasyonla beraber de kullanılabilir. Bazı hipertansif hastalarda brakial arterden duyulan ses manşon basıncı yüksek olduğunda duyulmaz ve düşük basınçlarda duyulur. Bu geçici ses kaybı oskültasyon gapı olarak adlandırılır. Genellikle ilk ve 2. korotkoff sesleri arasında duyulur. Bu gap bazen 40 mm/Hg lik bir aralığı gizleyebilir, Bu da sistolik kan basıncının gözden kaçmasına ya da diastolik kan basıncının daha yüksek algılanmasına neden olabilir. Bu nedenle manşon basıncının doğru sistolik sesi duyacak basınca getirildiğinden emin olmak gerekir. Bu ayarlamaya radiyal nabzın palpe edilmesi yardımcı olabilir. Radiyal nabızdan palpe edilen basınçtan 30 mm/Hg fazla basınç uygulanması kan basıncının doğru ölçümüne katkı sağlayabilir.
+Elektronik Kan Basıncı Ölçümü
+Otomatik olarak kan basıncı ölçümü yapan birçok elektronik alet vardır. Kanın arterde oluşturduğu titreşimleri algılayan sensörlere sahip olan elektronik tansiyon aletleri bulunmaktadır. Kaf gevşeyince okunan kan basıncı ekrana yansır. Alet oskültasyon düşük olduğunda diastolik kan basıncını da kolaylıkla ölçer. Elektronik kan basıncı ölçüm cihazlarının kısa sürede ölçme gibi avantajları bulunmakta iken, kalibrasyon veya şarjının azalması gibi nedenlerle yanlış ölçüm yapmak da dezavantajları arasında sayılabilir. Potansiyel olarak stabil olmayan kritik hastalarda, tedavi prosedürü sık izlem gerektirirse ya da invaziv işlemlerde elektronik aletlerle sık ölçüm yapılmalıdır.
+5.4.2. Brakiyal Arterden Kan Basıncı Ölçümü
+Brakiyal arterden kan basıncı ölçümü uygulama aşamaları ve gerekçeleri Tablo 15'te verilmiştir.
+5.4.1. Kan Basıncı Ölçülmesindeki Yaygın Hatalar
+5.4.2. Brakiyal Arterden Kan Basıncı Ölçümü
+Brakiyal arterden kan basıncı ölçümü uygulama aşamaları ve gerekçeleri Tablo 15'te verilmiştir.
+5.4.1. Kan Basıncı Ölçülmesindeki Yaygın Hatalar
+Kan basıncı ölçümü yapılırken bazı yaygın hatalar görülmektedir. Bu hataların neler olduğu ve etkileri Tablo 14'te gösterilmiştir.
+
+
+
+OKSİJEN SATURASYONUN ÖLÇÜLMESİ PULSE OKSİMETRE
+Yaşam bulguları içinde oksijen saturasyonunun pulse oksimetre ile ölçümü indirekt ölçümdür. Oksimetre ışık yayan nokta (led) e bağlı bir foto sensördür. Işık oksijenli ve oksijensiz hemoglobininin farklı dalga boyları yaratmasını sağlar. Oksimetre bu farklı dalga boylarını ölçer. Nabzın en üst noktasındaki ölçümlere göre neredeyse anında ölçüm yapılabilir. Normalde saturasyon %90 dan büyüktür.
+Pulse oksimetre ile oksijen saturasyonun ölçülmesi kan gazı örneklemesi gibi invaziv yöntemlerden daha az riskli ve acısız bir yöntemdir. Pulse oksimetre ile ölçümde dikkat edilecek önemli bir nokta vasküler nabızsal alanda ışığın içinden geçebileceği bir pozisyonun sağlanması ve ekstremitenin sabit tutulmasıdır. Bu bağlamda ışığın geçişini etkileyen faktörler (sensör hareketi gibi) ya da periferal arter pulsasyonu (hipotansiyon ya da anemi gibi) ölçümü olumsuz etkiler. Bu durumlar anormal saturasyon sonuçlarının alınmasına neden olur. Pulse oksimetre ile aralıklı ya da sürekli Sp02 takibi yapılabilir. Sp02 monitörleri, hastanın oksijen basıncının düşüp, riskli sınırlarda olduğunda uyarı verir.
+
+	
+SONUÇ
+Tüm hemşireler yasam bulgularının ölçülmesi ve kaydedilmesinin hasta bakımının önemli bir parçası olduğunu bilirler. Tan konulduktan ve tedavi başladıktan sonra hastanın düzenli olarak izlenmesi gerekmektedir. Bu hayati belirtilerdeki değişikliklerin zamanında tespiti ve bildirilmesi, uygun tedavinin başlatılmasındaki gecikmeleri önlemek için önemlidir.
